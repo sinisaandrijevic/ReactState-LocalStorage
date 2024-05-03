@@ -20,6 +20,8 @@ To run the project locally, follow these simple steps:
 ## Usage
 Upon opening the project, you will be presented with a page featuring a banner. This banner includes a hide button, allowing users to dismiss it. Once hidden, the banner's state is saved as "hidden" using LocalStorage. Consequently, the next time you visit the page, the banner will remain hidden, ensuring a seamless browsing experience.
 
+Additionally, a counter component has been implemented in this project. Users can interact with the counter by pressing the "+" or "-" buttons, which increments or decrements the counter value respectively. The counter state is also saved in LocalStorage, ensuring that even after refreshing the page, the counter retains its value.
+
 ## License
 This project is licensed under the MIT License.
 
